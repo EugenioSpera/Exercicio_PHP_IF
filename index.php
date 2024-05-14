@@ -37,7 +37,25 @@
                 </div>
 
             </div>
-    </form>
+            </form>
+
+            
+            <div class="col-md-3">
+                <div class="mb-3 text-center">
+                    <label for="inputNome" class="label-control text center">Valor03</label>
+                    <input type="text" class="form-control" name="valor03">
+            </div>
+        </div>
+
+                <div class="row justify-content-center mt-5">
+            <div class="mb-3 text-center">
+                <div class="mb-3 text-center">
+                    <button type="submit" class="btn btn-primary">Verificar</button>
+
+                </div>
+
+            </div>
+
 </div>
 
 
